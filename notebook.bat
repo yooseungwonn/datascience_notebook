@@ -1,2 +1,2 @@
-call conda activate base
+call conda activate himedia
 jupyter notebook
